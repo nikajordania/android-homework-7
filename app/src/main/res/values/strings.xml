@@ -3,4 +3,9 @@
     <string name="list_users">List Users</string>
     <string name="result_text">result_text</string>
     <string name="delete_user">Delete User</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="id">ID</string>
+    <string name="create_user">Create User</string>
+    <string name="update_user">Update User</string>
 </resources>
